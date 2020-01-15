@@ -1,4 +1,5 @@
 |Rank|Realm|Clears|
+|---|---|---|
 |1|Gilgamesh (NA)|202|
 |2|Leviathan (NA)|186|
 |3|Cactuar (NA)|174|

@@ -32,6 +32,7 @@ clear_dict = {k: v for k, v in sorted(clear_dict.items(), key=lambda item: item[
 
 with open('clears.md', 'w') as file:
     file.write("|Rank|Realm|Clears|\n")
+    file.write("|---|---|---|\n")
     counter = 1
     for realm in clear_dict.items():
         file.write("|" + str(counter) + "|" + str(realm[0]) + "|" + str(realm[1]) + "|\n")
